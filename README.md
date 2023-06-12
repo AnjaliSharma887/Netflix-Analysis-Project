@@ -6,8 +6,11 @@ In this Project I perform some EDA (Exploratory Data Analysis)
 Some Analysis 
 
 1 is there any duplicate records in dataset? if yes then remove
+
 2 for 'house of cards',what is show id & who is director of this show?
+
 3 in which year highest no of tv shows&movies were released? show with bar graph
+
 4 how many movies and TV shows are in dataset? show with bar graph
 5 show only the titles of all tv shows that were realeased in india only
 6 Show top 10 directors,who gave the highest no of tvshows&movies to netflix?¶
